@@ -2,7 +2,6 @@
 
                                                 Vérifier ADB :
 
-<img width="626" height="127" alt="image" src="https://github.com/user-attachments/assets/7b93e7ad-5fea-4e2b-a9c6-6cf0a4781785" />
 <img width="781" height="183" alt="image" src="https://github.com/user-attachments/assets/7ebe3c2d-68f4-436d-b5e3-7ba523dcc155" />
 
                                            Télécharger frida-server
